@@ -1,0 +1,7 @@
+data_source/tmp.ipynb
+data_source/*.csv
+results/bak
+results/tmp.ipynb
+
+# macOS system files
+.DS_Store
